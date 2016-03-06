@@ -1,4 +1,4 @@
-package design.patterns.strategy;
+    package design.patterns.strategy;
 
 /**
  * Main Function
