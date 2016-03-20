@@ -1,5 +1,12 @@
 # HeadFirstDesignPattensJava
 
+## v1.2
+### 观察者模式
+- 完成了观察者模式的第一版
+- 使用自己写的Subject和Observer接口
+- 完成了主要面板的实现
+- 下一版本的观察者模式实现使用java内置的类和接口
+
 ## v1.0
 ### 总结
 - OO基础
